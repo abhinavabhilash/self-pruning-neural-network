@@ -1,0 +1,8 @@
+The folowing are required libraries:
+
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+
